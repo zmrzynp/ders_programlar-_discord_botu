@@ -10,4 +10,6 @@ Gereksinimler:
 3. Geliştirici olarak sizden, bunların yanı sıra okul yöneticileri için de botun nasıl birleştirileceğini anlatan bir belge hazırlamanızı bekliyoruz. 
 4. Bot, aktarım için basit ve bir dağıtım sunmalıdır.
 
-Şahsım Tarafından Bu Projeye Eklenilmesi PLanlanılan Detaylar
+Şahsım Tarafından Bu Projeye Eklenilmesi Planlanılan Detaylar:
+
+Öğrencinin bilgilerine uygun olarak ona meslek veya meslek seçimleri konusunda konuşabileceği uygun danışman öğretmen önerebil
