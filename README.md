@@ -13,3 +13,8 @@ Gereksinimler:
 Şahsım Tarafından Bu Projeye Eklenilmesi Planlanılan Detaylar:
 
 Öğrencinin bilgilerine uygun olarak ona meslek veya meslek seçimleri konusunda konuşabileceği uygun danışman öğretmen önerebil
+
+![Sparkle Görseli](images/sparkle.gif)
+
+Kullanılması Planlanılan Araçlar
+
